@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+*.log.*
+logs/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build, dist, cache
+build/
+dist/
+.cache/
+coverage/
+
+# Envs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.DS_Store
